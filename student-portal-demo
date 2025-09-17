@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Student Portal Demo</title>
+</head>
+<body>
+  <h1>Welcome to Student Portal</h1>
+
+  <h2>Courses</h2>
+  <ul>
+    <li>Computer Science</li>
+    <li>chemistry</li>
+  </ul>
+
+  <h2>Exams</h2>
+  <p>chemistry exam – 25th Sept</p>
+  <p>CS Lab Test – 28th Sept</p>
+
+  <h2>Grades</h2>
+  <p>chemistry: A</p>
+  <p>CS: B+</p>
+</body>
+</html>
